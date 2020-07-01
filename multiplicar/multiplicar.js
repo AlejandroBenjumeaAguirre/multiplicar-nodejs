@@ -1,5 +1,6 @@
 // Requireds
 const fs = require('fs');
+var colors = require('colors');
 
 
 let listarTabla = (base, limite) => {
